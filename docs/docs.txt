@@ -1,0 +1,6 @@
+In this directory we need to upload
+- ERDiagram.pdf
+- RelationshipSchema.pdf
+- DataDictionary.pdf
+- Normalization.pdf
+- ProjectReport.pdf
